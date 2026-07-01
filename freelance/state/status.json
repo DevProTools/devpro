@@ -1,18 +1,18 @@
 {
-  "阶段": "做任务中",
+  "阶段": "注册 Opire 中",
   "当前任务": {
     "名称": "AI代码审查工具 - $150",
     "链接": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-    "进度": "30%",
+    "进度": "35%",
     "步骤": {
       "了解需求": "done",
-      "领任务": "done",
-      "写代码": "working",
-      "测试": "pending",
+      "领任务(/opire try)": "done",
+      "注册 Opire": "working",
+      "写代码": "pending",
       "提交PR": "pending",
       "收款": "pending"
     },
-    "正在做": "创建命令行工具框架——用 Node.js 写 claude-review 工具"
+    "正在做": "自动完成 Opire 注册（GitHub OAuth 授权）"
   },
   "总收入": 0,
   "总任务数": 1,
