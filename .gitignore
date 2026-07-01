@@ -7,3 +7,5 @@ data/
 *.log
 .DS_Store
 server/index.js.bak
+*.cjs
+pnpm-lock.yaml
