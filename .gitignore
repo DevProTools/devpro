@@ -1,4 +1,9 @@
 node_modules/
 dist/
-data/db.json
+data/
+.wallet
+.admin-token
 .env
+*.log
+.DS_Store
+server/index.js.bak
