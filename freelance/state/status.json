@@ -3,15 +3,16 @@
   "当前任务": {
     "名称": "AI代码审查工具 - $150",
     "链接": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-    "进度": "20%",
+    "进度": "30%",
     "步骤": {
       "了解需求": "done",
+      "领任务": "done",
       "写代码": "working",
-      "测试工具": "pending",
-      "提交成果": "pending",
-      "等待收款": "pending"
+      "测试": "pending",
+      "提交PR": "pending",
+      "收款": "pending"
     },
-    "正在做": "开始写代码——创建 CLI 工具框架"
+    "正在做": "创建命令行工具框架——用 Node.js 写 claude-review 工具"
   },
   "总收入": 0,
   "总任务数": 1,
