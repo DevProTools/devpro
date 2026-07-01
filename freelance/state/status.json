@@ -1,20 +1,18 @@
 {
   "阶段": "做任务中 - 等待审核",
-  "当前任务": {
-    "名称": "Login Rate Limiting Fix - $10",
-    "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/91",
-    "进度": "85%",
-    "步骤": {
-      "找任务": "done",
-      "核查": "done",
-      "写修复代码": "done",
-      "提交": "done",
-      "等待审核": "working",
-      "收款": "pending"
+  "任务列表": [
+    {
+      "名称": "Login Rate Limiting Fix - $10",
+      "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/91",
+      "状态": "已提交，等待审核"
     },
-    "正在做": "等待仓库主人审核修复代码"
-  },
+    {
+      "名称": "Unsafe Pickle Deserialization Fix - $100",
+      "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/129",
+      "状态": "已提交，等待审核"
+    }
+  ],
   "总收入": 0,
-  "总任务数": 1,
-  "已完成": 0
+  "待收款": "$110",
+  "更新时间": ""
 }
