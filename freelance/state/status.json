@@ -1,18 +1,18 @@
 {
-  "阶段": "注册 Opire 中",
+  "阶段": "做任务中 - 等待审核",
   "当前任务": {
-    "名称": "AI代码审查工具 - $150",
-    "链接": "https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4",
-    "进度": "35%",
+    "名称": "Login Rate Limiting Fix - $10",
+    "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/91",
+    "进度": "85%",
     "步骤": {
-      "了解需求": "done",
-      "领任务(/opire try)": "done",
-      "注册 Opire": "working",
-      "写代码": "pending",
-      "提交PR": "pending",
+      "找任务": "done",
+      "核查": "done",
+      "写修复代码": "done",
+      "提交": "done",
+      "等待审核": "working",
       "收款": "pending"
     },
-    "正在做": "自动完成 Opire 注册（GitHub OAuth 授权）"
+    "正在做": "等待仓库主人审核修复代码"
   },
   "总收入": 0,
   "总任务数": 1,
