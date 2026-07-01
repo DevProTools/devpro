@@ -1,14 +1,8 @@
 {
-  "阶段": "批量提交中 - 等待审核",
+  "阶段": "等待审核中 - 有竞争对手",
   "已提交": 5,
-  "任务列表": [
-    {"名称": "Login Rate Limiting", "金额": "$10", "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/91", "状态": "等待审核"},
-    {"名称": "Unsafe Pickle Deserialization", "金额": "$100", "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/129", "状态": "等待审核"},
-    {"名称": "Apache/NGINX Misconfiguration", "金额": "$100", "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/135", "状态": "等待审核"},
-    {"名称": "CRLF Injection", "金额": "$100", "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/132", "状态": "等待审核"},
-    {"名称": "Buffer Overflow in Native Module", "金额": "$50", "链接": "https://github.com/zhangjiayang6835-cyber/ai-research/issues/95", "状态": "等待审核"}
-  ],
+  "总任务数": 5,
   "总收入": 0,
   "待收款": "$360",
-  "更新时间": ""
+  "说明": "5个修复已提交。部分任务有其他开发者竞争。等Bot审核。系统每日自动检查。"
 }
